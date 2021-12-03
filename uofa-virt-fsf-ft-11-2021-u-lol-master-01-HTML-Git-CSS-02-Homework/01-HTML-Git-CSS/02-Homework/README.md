@@ -30,9 +30,10 @@ THEN I find a concise, descriptive title
 ```
 
 ### Webpage View After Refactoring Code
-![Webpage View After Refactoring Code](ahttps://github.com/kgarzelloni/01-code-refactor/blob/main/uofa-virt-fsf-ft-11-2021-u-lol-master-01-HTML-Git-CSS-02-Homework/01-HTML-Git-CSS/02-Homework/Assets/Refactoredpage.png?raw=true)
+![Refactoredpage](https://user-images.githubusercontent.com/94555980/144541972-fb865661-46e3-46eb-8530-9720dc09ef92.png)
+
 
 ### URL to deployed page
-
+https://kgarzelloni.github.io/01-code-refactor/
 ---
 Karrie Garzelloni, December 2, 2021, Homework 01-CSS, HTML, CSS and Git: Code Refactoring
