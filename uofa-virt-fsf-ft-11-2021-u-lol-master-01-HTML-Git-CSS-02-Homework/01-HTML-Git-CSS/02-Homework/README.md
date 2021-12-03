@@ -34,6 +34,6 @@ THEN I find a concise, descriptive title
 
 
 ### URL to deployed page
-https://kgarzelloni.github.io/01-code-refactor/
+https://kgarzelloni.github.io/01-code-refactor/uofa-virt-fsf-ft-11-2021-u-lol-master-01-HTML-Git-CSS-02-Homework/01-HTML-Git-CSS/02-Homework/Develop/index.html
 ---
 Karrie Garzelloni, December 2, 2021, Homework 01-CSS, HTML, CSS and Git: Code Refactoring
